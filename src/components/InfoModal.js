@@ -22,6 +22,9 @@ export const InfoModal = ({ isOpen, handleClose, darkMode, colorBlindMode, style
           <ul className="list-disc pl-5 block sm:text-base text-sm">
             <li className="mt-6 mb-2">Made with love by <a href="https://www.twitter.com/devangvang">Devang Thakkar</a>.</li>
           </ul>
+          <ul className="list-disc pl-5 block sm:text-base text-sm">
+            <li className="mt-6 mb-2">Forked for K!</li>
+          </ul>
           <h1 className="text-center sm:text-3xl text-2xl">How to play?</h1>
           <ul className="list-disc pl-5 block sm:text-base text-sm">
             <li className="mt-6 mb-2">You have 6 guesses to guess the correct word.</li>
